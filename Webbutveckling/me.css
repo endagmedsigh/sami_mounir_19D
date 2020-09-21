@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    color: orange;
+    animation-name: me;
+    animation-duration: 6s;
+
+    
+}
+
+@keyframes me {
+    from {color: white;}
+    to {color:orange;}
+}
