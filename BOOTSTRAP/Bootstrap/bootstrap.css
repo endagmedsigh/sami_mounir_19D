@@ -560,6 +560,7 @@ pre code {
 .container-sami1 {
   text-align: center;
   padding-top: 10px;
+  color:white;
 
 }
 
@@ -4318,6 +4319,7 @@ input[type="button"].btn-block {
 .tab-content > .active {
   display: block;
 }
+
 
 .navbar {
   position: relative;
